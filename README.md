@@ -1,5 +1,5 @@
 # Task5
-Desicion Trees and Random Forest<br>
+Decision Trees and Random Forest<br>
 Used Scikit-learn, Matplotlib, Pandas<br>
 Trained a Decision Tree Classifier and visualized the tree.<br>
 Analyzed overfitting depth of tree<br>
